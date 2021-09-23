@@ -1,0 +1,7 @@
+
+*.lock
+*.properties
+*.bin
+*.xml
+dammen/gradlew
+dammen/gradlew.bat

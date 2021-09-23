@@ -1,1 +1,1 @@
-# checkers
+You can start the game by pressing on the New game button. 
